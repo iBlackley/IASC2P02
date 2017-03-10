@@ -29,6 +29,6 @@ McPherson looks at one particular aspect of the UNIX os. McPherson outlines the 
 but focuses only on the Rule of Modularity. McPherson spends much of this section explaining how UNIX and other similar operating systems
 work when trying to work efficiently and effectively; remove and separate unneeded or troublesome pieces.
 
-![]EMBED.png
+![](https://raw.githubusercontent.com/iBlackley/IASC2P02/master/images/EMBED.png)
 
 
