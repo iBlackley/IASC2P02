@@ -13,7 +13,7 @@ McPherson then moves onto UNIX, a base operating system that inspired LINUX and 
 
 McPherson’s argument is one that makes you scratch your head and ask what you just read. She brings forward something that could cause issues: racism within the digital humanities, but how she approaches and presents her argument brings no ground to the debate, thus her point never gains any reason to be agreed to. If DH are ‘So White’ then it wouldn’t be in the foundation of a computer operating system or the manufacturing of a 3D illusion. It would be within the physical forms of digital humanities, where people interact and develop new forms of digital media. Racism is not part of a computer’s coding, a virus is not a metaphor for a person of colour, removing it is not similar to lynching and quarantining it is not the same as being “isolated in ‘deteriorating city centers.’” The arguments are far and wide from an actual, strong point. I don’t disagree with McPherson that there could potentially be a form of racism within digital humanities. I do, however, disagree with this article and her points within it. 
 
-# Works Cited
+### Works Cited
 Mcpherson, Tara. "Why Are the Digital Humanities So White? or Thinking the Histories of Race and Computation." *Debates in the Digital Humanities* (2012): 139-60. Web.
 
 Kirschenbaum, Matthew. "What Is Digital Humanities and What’s It Doing in English Departments?" *Debates in the Digital Humanities* (2012): 3-11. Web.
