@@ -9,5 +9,5 @@ My name is Roger Ian Blackley and I am a student in the Interactive Arts and Sci
 
 [Continue Reading](blog)
 
-### GPS
+### Media Archaeology 
 [Slide Show](slides-gps.html)
