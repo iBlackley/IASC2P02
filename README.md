@@ -8,7 +8,7 @@ My name is Roger Ian Blackley and I am a student in the Interactive Arts and Sci
 
 
 
-[](scrolling-gps.jpg)
+![](scrolling-gps.jpg)
 
 The Project goes over the hsitory of long-forgotten relics of personal nevigation before the GPS was even imagined. Through The Plus Four Wristlet, Iter Avto, and the Jones Live Disc, the project shows and explains the pros and cons of these devices. The project also compares each one to modern day versions that may have been inspired by, if not directly, to these relics. Going back as far as 1893, the project overlooks each way people tried to make navigating even festivals easier.
 
